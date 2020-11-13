@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CATALOG>
+  <CAR>
+    <NAME>Empire Burlesque</NAME>
+    <DATE>Bob Dylan</DATE>
+    <PRICE>USA</PRICE>
+  </CAR>
+  <CAR>
+    <NAME>Hide your heart</NAME>
+    <DATE>Bonnie Tyler</DATE>
+    <PRICE>UK</PRICE>
+  </CAR>
+  <CAR>
+    <NAME>Greatest Hits</NAME>
+    <DATE>Dolly Parton</DATE>
+    <PRICE>USA</PRICE>
+  </CAR>
+</CATALOG>
